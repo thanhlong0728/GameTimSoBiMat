@@ -10,7 +10,7 @@ import EndGame from './components/EndGame'
 import styleItem from './components/Item/styles'
 import Time from './components/Time'
 import define from './contains/define'
-// con chó
+// con chó ngu nhất
 const shuffle = (array) => array.sort(() => Math.random() - 0.5);
 const bgConstant = [styleItem.bg_one, styleItem.bg_two, styleItem.bg_three, styleItem.bg_four, styleItem.bg_five]
 let arrBg = []
